@@ -1,4 +1,5 @@
-# Unbalanced (KL) Wasserstein distance
+Unbalanced (KL) Wasserstein distance
+====================================
 
 Implementation of the KL relaxed Wasserstein distance
 based on Unbalanced Optimal Transport theory
